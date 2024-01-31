@@ -1,8 +1,9 @@
 import React from 'react'
 
-export default function page() {
+const page = () => {
   return (
-    <>
-    this is wajid component
-    </>
+    <div>page</div>
+  )
 }
+
+export default page
